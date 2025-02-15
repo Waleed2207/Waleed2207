@@ -27,7 +27,6 @@
 ###
 ##
 <br clear="both">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Waleed2207/Waleed2207/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Waleed2207/Waleed2207/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shaharariel95/shaharariel95/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shaharariel95/shaharariel95/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ###
