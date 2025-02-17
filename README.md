@@ -31,10 +31,7 @@
 <!-- Dark mode -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waleed2207/WaleedYounis/output/github-contribution-grid-snake-dark.svg">
-  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-    <desc>Generated for Waleed's Contributions</desc>
-    <image href="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=Waleed2207" width="800" height="200"/>
-  </svg>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waleed2207/WaleedYounis/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
